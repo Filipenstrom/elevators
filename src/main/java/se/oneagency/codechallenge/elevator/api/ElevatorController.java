@@ -8,7 +8,7 @@ import java.util.List;
  *
  *
  */
-interface ElevatorController {
+public interface ElevatorController {
 
     /**
      * Request an elevator to the specified floor.
